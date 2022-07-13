@@ -1,0 +1,11 @@
+venv/
+greengrass
+.pytest_cache
+__pycache__
+dependecies/
+*.egg-info
+*.pyc
+*.db
+images/
+*.mp4
+*.jpg
